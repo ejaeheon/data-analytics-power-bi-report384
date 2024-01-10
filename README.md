@@ -34,6 +34,8 @@ The following shows the milestones that were followed when completing the projec
     - `Executive Summary`, `Customer Detail`, `Product Detail`,`Stores Map`
 
 - **Milestone 5**: Customer Detail Page
+![Add Image](/Users/jaeheonlee/Desktop/AICore /PowerBI/Power BI project SQL/Customer Detail.png)
+
 
 - **Milestone 6**: Executive Summary Page
 
