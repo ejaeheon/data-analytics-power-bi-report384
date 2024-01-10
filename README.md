@@ -34,14 +34,16 @@ The following shows the milestones that were followed when completing the projec
     - `Executive Summary`, `Customer Detail`, `Product Detail`,`Stores Map`
 
 - **Milestone 5**: Customer Detail Page
-![Add Image](/repository/Images/Customer Detail.png?raw=true)
-
+![Customer Detail](/Images/Customer%20Detail.png?raw=true)
 
 - **Milestone 6**: Executive Summary Page
+- ![Customer Detail](/Images/Executive%20Summary.png?raw=true)
 
 - **Milestone 7**: Product Detail Page
+- ![Customer Detail](/Images/Product%20Detail.png?raw=true)
 
 - **Milestone 8**: Stores Map Page
+- ![Customer Detail](/Images/Stores%20Map.png?raw=true)
 
 - **Milestone 9**: Cross-Filtering and Navigation
     - Final details were added to report to remove any cross-highlighting as we didn't want all areas of the report to change after filters were applied
